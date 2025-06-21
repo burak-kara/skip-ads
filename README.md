@@ -50,3 +50,9 @@ This extension is a personal tool focused on bypassing ad overlays on specific d
 ## 🔗 GitHub Repository
 
 Source code and updates: [https://github.com/burak-kara/skip-ads](https://github.com/burak-kara/skip-ads)
+
+---
+
+## ⚠️ Legal Notice
+
+This extension is intended solely for personal convenience to bypass ad layers on supported websites. It does **not** promote, facilitate, or endorse any illegal activities, including but not limited to piracy, unauthorized access, or copyright infringement. Use responsibly and only on content you have legal rights to access. The author assumes no liability for misuse.
